@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi This is Pinky Singh (coderpink) here 👋
 
 # 💫 About Me:
 I'm Junior Software Developer in India.<br>I'm currently learning Asp.Net Core.<br>I also write coding articles on Dev Community.
