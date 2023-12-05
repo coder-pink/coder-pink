@@ -1,7 +1,7 @@
 ### Hi This is Pinky Singh (coderpink) here 👋
 
 # 💫 About Me:
-I'm Junior Software Developer in India.<br>I'm currently learning Asp.Net Core.<br>I also write coding articles on Dev Community.
+I'm Junior Software Developer in India.<br>I like to learn new technologies.<br>I also write coding articles on Dev Community.
 
 # HacktoberFest 2023
 [![An image of @coderpink's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderpink)](https://holopin.io/@coderpink)
